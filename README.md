@@ -7,6 +7,6 @@ Developing innovative projects [View more](https://github.com/BenyD?tab=reposito
 
 - ⚙️ I use daily: `.py`, 
 - 🌍 I'm mostly active in [LinkedIn](www.linkedin.com/in/gokulakrishnxn);
-- 💅 Designed: @benycv, [Gokulakrishnan.dev](www.gokulakrishnan.dev),
-- 📄 Resume/CV: Find out more about me [here]
+- 💅 Designed: @Gokulakrishnan, [Gokulakrishnan.dev](www.gokulakrishnan.dev),
+- 📄 Resume/CV: Find out more about me 
 - 💬 `ping` me about **development**, **design**, **ai related stuff** & **latest technologies**.
