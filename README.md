@@ -2,7 +2,7 @@
 
 - ⚙️ I use daily: `.py` `.Ts` 
 - 🌍 I'm mostly active in [![Gokulakrishnan](https://img.shields.io/badge/-Gokulakrishnan-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Gokulakrishnxn)
-- 🪽 Portfolio, [ www.Gokulakrishnan.dev ]( www.gokulakrishnan.dev ),
+- 🪽 Portfolio, [ www.gokulakrishnan.dev ]( www.gokulakrishnan.dev ),
 - 📄 Resume/CV: Find out more about me 
 - 💬 `ping` me about **development**, **design**, **ai related stuff** & **latest technologies**.
 
