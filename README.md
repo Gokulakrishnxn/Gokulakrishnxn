@@ -8,5 +8,5 @@
 
 ## Current Projects
 
-- 🦞 **[OpenClaw](https://openclaw.ai)** - the AI that actually does things
+- 🦞 **[Maxy.ai](https://github.com/Gokulakrishnxn/Maxy.ai)** - the AI that actually does things
 - 🐾 **[ClawHub](https://clawhub.ai)** - OpenClaw skill directory
