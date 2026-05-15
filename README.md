@@ -6,6 +6,6 @@
 - 💬 `ping` me about **development**, **design**, **ai related stuff** & **latest technologies**.
 
 ## Current Projects
-- 📚 **[Crel](https://github.com/Gokulakrishnxn/crel)** -   Open-source privacy-first Web analytics 
+- 📊 **[Crel](https://github.com/Gokulakrishnxn/crel)** -   Open-source privacy-first Web analytics 
 - 🌏 **[DeepResearch Agent](https://github.com/Gokulakrishnxn/deepresearch-agent)** - DeepSearch is an attractive, terminal-first deep research assistant built with Google ADK
 - 📚 **[skillarc](https://github.com/Gokulakrishnxn/skillarc)** - Prompt templates, tool definitions, workflows, and Agent Skills for modern AI agents.
