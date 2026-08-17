@@ -14,7 +14,7 @@ Building AI assistants, ML models, and dev tools — from LLM routing to clinica
 ## Start Here
 
 - 🧭 **[Praxis-Model-Route](https://github.com/Gokulakrishnxn/Praxis-Model-Route)** — intelligent LLM router that picks the right model (cost/latency/accuracy) per task (https://www.gokulakrishnan.dev/project))
-- 🧩 **[skillarc](https://github.com/Gokulakrishnxn/skillarc)** — open registry of prompt templates, tool defs & agent skills ([live](https://gokulakrishnxn.github.io/skillarc/))
+- 🧩 **[skillarc](https://github.com/Gokulakrishnxn/skillarc)** — open registry of prompt templates, tool defs & agent skills 
 - 🔎 **[deepresearch-agent](https://github.com/Gokulakrishnxn/deepresearch-agent)** — DeepSearch, a deep research agent CLI
 - 👁️ **[Myopia-Prediction-model](https://github.com/Gokulakrishnxn/Myopia-Prediction-model)** — ML platform predicting clinical uptake of therapeutic lenses
 - 🐝 **[Decentralized-FL-Drones](https://github.com/Gokulakrishnxn/Decentralized-FL-Drones)** — federated learning across multi-drone swarms with LiDAR + frontier navigation
