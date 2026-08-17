@@ -70,12 +70,6 @@ Building AI assistants, ML models, and dev tools — from LLM routing to clinica
 [![Website](https://img.shields.io/badge/-Gokulakrishnan.dev-FF5722?style=flat-square&logo=todoist&logoColor=white)](https://gokulakrishnan.dev)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gokulakrishnxn)
 
----
-
-### Philosophy
-
-> "Running on coffee and curiosity" — build things that solve a real problem first, polish comes after.
-
 <!--
   TODO before publishing:
   - Swap/confirm LinkedIn, if you want it listed
