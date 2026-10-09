@@ -53,10 +53,6 @@ Building AI assistants, ML models, and dev tools — from LLM routing to clinica
 ### Robotics
 - 🚗 **[WRO2025-AutonomousCarSystem](https://github.com/Gokulakrishnxn/WRO2025-AutonomousCarSystem)** — autonomous car system, World Robot Olympiad 2025
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=Gokulakrishnxn&hide_border=true)
-
 ## What I'm Doing
 
 - **Building AI-native tools** — assistants, routers, and agents that make research and dev work faster
@@ -69,10 +65,3 @@ Building AI assistants, ML models, and dev tools — from LLM routing to clinica
 [![Twitter/X](https://img.shields.io/badge/-Gokulakrishnxn-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Gokulakrishnxn)
 [![Website](https://img.shields.io/badge/-Gokulakrishnan.dev-FF5722?style=flat-square&logo=todoist&logoColor=white)](https://gokulakrishnan.dev)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gokulakrishnxn)
-
-<!--
-  TODO before publishing:
-  - Swap/confirm LinkedIn, if you want it listed
-  - Double check "Start Here" picks still match your repo list after the deletions go through
-  - The contribution-graph image uses a third-party renderer (gitlyy.vercel.app) — same one steipete's page uses; swap if you'd rather self-host
--->
