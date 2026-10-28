@@ -1,67 +1,37 @@
 # Hi, I'm Gokulakrishnan 👋
 
-📍 **Chennai, India** | 🤖 **AI/ML builder** | ☕ **Running on coffee and curiosity**
+📍 Chennai, India · 🤖 AI/ML builder · ☕ Running on coffee and curiosity
 
-Building AI assistants, ML models, and dev tools — from LLM routing to clinical prediction to full-stack products.
+I build AI-native products and tools: on-device apps for macOS, money and data dashboards, and ML research projects.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-## Start Here
+## What I'm building now
 
-- 🧭 **[Praxis-Model-Route](https://github.com/Gokulakrishnxn/Praxis-Model-Route)** — intelligent LLM router that picks the right model (cost/latency/accuracy) per task 
-- 🧩 **[skillarc](https://github.com/Gokulakrishnxn/skillarc)** — open registry of prompt templates, tool defs & agent skills 
-- 🔎 **[deepresearch-agent](https://github.com/Gokulakrishnxn/deepresearch-agent)** — DeepSearch, a deep research agent CLI
-- 👁️ **[Myopia-Prediction-model](https://github.com/Gokulakrishnxn/Myopia-Prediction-model)** — ML platform predicting clinical uptake of therapeutic lenses
-- 🐝 **[Decentralized-FL-Drones](https://github.com/Gokulakrishnxn/Decentralized-FL-Drones)** — federated learning across multi-drone swarms with LiDAR + frontier navigation
+- 🎙️ **[Kivo](https://github.com/Gokulakrishnxn/Kivo)**: turns voice into clean text. Hold a key, speak, and punctuated text appears at your cursor. Runs entirely on your device. (Rust, macOS)
+- 💸 **[Finlio](https://github.com/Gokulakrishnxn/finlio)**: a private money dashboard for India and the US that explains in plain English why your money moved. (Next.js, Gemini)
+- 🪟 **[Haven](https://github.com/Gokulakrishnxn/Haven)**: a native macOS command surface for AI agents. Start an agent from whatever you're working on and let it run in the background. (Swift, early stage)
+- 🇮🇳 **[Jobs](https://github.com/Gokulakrishnxn/Jobs)**: an interactive treemap of India's labour market, covering 367 occupations and about 362M workers by growth, pay, education and AI exposure.
 
-## Current Projects
+## Tools
 
-### AI Assistants & Agents
-- 🧑‍🏫 **[Teaching-assistant](https://github.com/Gokulakrishnxn/Teaching-assistant)** — Atlas AI, a personal AI assistant for teachers and students
-- 💎 **[Ruby](https://github.com/Gokulakrishnxn/Ruby)** — personal AI assistant with conversational + long-term memory
-- 🧠 **[aria](https://github.com/Gokulakrishnxn/aria)** — research-first AI assistant built for decision-makers
-- 🩹 **[ClaroAI](https://github.com/Gokulakrishnxn/ClaroAI)** — AI assistant project
-- 🧸 **[Buddy.ai](https://github.com/Gokulakrishnxn/Buddy.ai)** — AI chat assistant with an interactive 3D avatar (Three.js + Ready Player Me)
-- 🎫 **[ResolveAI](https://github.com/Gokulakrishnxn/ResolveAI)** — AI customer-support auto-resolver for Shopify & WooCommerce
+- 📈 **[crel](https://github.com/Gokulakrishnxn/crel)**: open-source, privacy-first web analytics. No cookies, under 6 KB of script, self-hosted on Vercel and Supabase.
+- 🧭 **[Praxis-Model-Route](https://github.com/Gokulakrishnxn/Praxis-Model-Route)**: an LLM router that picks the right model for each task based on cost, latency and accuracy.
+- 💰 **[Profitfolio.in](https://github.com/Gokulakrishnxn/Profitfolio.in)**: an investment tracker built with Next.js and shadcn/ui.
+- ✅ **[QuickTask](https://github.com/Gokulakrishnxn/QuickTask-Application)**: a focused task manager and to-do app.
 
-### ML & Data Science
-- 👁️ **[Myopia-Prediction-model](https://github.com/Gokulakrishnxn/Myopia-Prediction-model)** — clinical uptake prediction for therapeutic lenses
-- 🌾 **[Customer-Segmentation-Sales-Prediction](https://github.com/Gokulakrishnxn/Customer-Segmentation-Sales-Prediction)** — segmentation + sales forecasting
-- 🐝 **[Decentralized-FL-Drones](https://github.com/Gokulakrishnxn/Decentralized-FL-Drones)** — federated learning, multi-drone exploration
-- 🗺️ **[Vision-Language-Model](https://github.com/Gokulakrishnxn/Vision-Language-Model)** — VLM-driven end-to-end zero-shot navigation
-- 🩺 **[adk-NeuroCare](https://github.com/Gokulakrishnxn/adk-NeuroCare)** — neuro-care agent project
-- 📊 **[Bigdataanalytics_academicproject](https://github.com/Gokulakrishnxn/Bigdataanalytics_academicproject)** — big data analytics coursework
+## Research & ML
 
-### Dev Tools & Infra
-- 🧭 **[Praxis-Model-Route](https://github.com/Gokulakrishnxn/Praxis-Model-Route)** — intelligent multi-LLM routing layer
-- 🧩 **[skillarc](https://github.com/Gokulakrishnxn/skillarc)** — open registry for agent skills & tool definitions
-- 🔎 **[deepresearch-agent](https://github.com/Gokulakrishnxn/deepresearch-agent)** — DeepSearch research agent CLI
-- 🔐 **[SecurePass](https://github.com/Gokulakrishnxn/SecurePass)** — password strength checker, breach detection & generator (Flask)
-- 📈 **[crel](https://github.com/Gokulakrishnxn/crel)** — open-source, privacy-first analytics
-
-### Web & Products
-- 🚪 **[mygatedev](https://github.com/Gokulakrishnxn/mygatedev)** — web project
-- ⚛️ **[quarix.one](https://github.com/Gokulakrishnxn/quarix.one)** / **[QuariX](https://github.com/Gokulakrishnxn/QuariX)** — AI agents, chatbots & custom apps for businesses
-- 💰 **[Profitfolio.in](https://github.com/Gokulakrishnxn/Profitfolio.in)** — investment tracking, built with Next.js + shadcn/ui
-- ✅ **[QuickTask-Application](https://github.com/Gokulakrishnxn/QuickTask-Application)** — task manager & to-do list app
-- ✍️ **[Blog](https://github.com/Gokulakrishnxn/Blog)** — personal blog
-- 🏥 **[rexAI](https://github.com/Gokulakrishnxn/rexAI)** / **[stellestai](https://github.com/Gokulakrishnxn/stellestai)** — healthtech product work
-
-### Robotics
-- 🚗 **[WRO2025-AutonomousCarSystem](https://github.com/Gokulakrishnxn/WRO2025-AutonomousCarSystem)** — autonomous car system, World Robot Olympiad 2025
-
-## What I'm Doing
-
-- **Building AI-native tools** — assistants, routers, and agents that make research and dev work faster
-- **Applying ML to real problems** — from clinical prediction to federated drone learning
-- **Shipping products** — from investment trackers to security tools to task managers
-- **Learning in public** — from coursework projects to production apps
+- 🐝 **[Decentralized-FL-Drones](https://github.com/Gokulakrishnxn/Decentralized-FL-Drones)**: federated learning for drones exploring a 3D environment together, using LiDAR and frontier-based navigation.
+- 🗺️ **[Vision-Language-Model](https://github.com/Gokulakrishnxn/Vision-Language-Model)**: a vision-language model that picks navigation actions directly, with no navigation-specific training.
+- 👁️ **[Myopia-Prediction-model](https://github.com/Gokulakrishnxn/Myopia-Prediction-model)**: predicts how likely patients are to take up therapeutic lenses for myopia, from clinical data.
+- 🚗 **[WRO2025-AutonomousCarSystem](https://github.com/Gokulakrishnxn/WRO2025-AutonomousCarSystem)**: an autonomous car for the World Robot Olympiad 2025 Future Engineers category (Raspberry Pi and Arduino).
 
 ## Connect
 
-[![Twitter/X](https://img.shields.io/badge/-Gokulakrishnxn-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Gokulakrishnxn)
-[![Website](https://img.shields.io/badge/-Gokulakrishnan.dev-FF5722?style=flat-square&logo=todoist&logoColor=white)](https://gokulakrishnan.dev)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gokulakrishnxn)
+[![Website](https://img.shields.io/badge/-gokulakrishnan.dev-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://gokulakrishnan.dev)
+[![X](https://img.shields.io/badge/-@Gokulakrishnxn-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Gokulakrishnxn)
